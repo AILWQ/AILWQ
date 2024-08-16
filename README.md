@@ -18,3 +18,5 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AILWQ&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AILWQ&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
