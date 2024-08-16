@@ -6,7 +6,7 @@
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+LLM+algorithm+engineer.;My+interests+are+in+LLM%2C+and+Agent." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+LLM+algorithm+engineer.;My+interests+lie+in+LLM%2C+Agents%2C+and+Symbolic+Regression." />
 </p>
 
 <p align="center">
