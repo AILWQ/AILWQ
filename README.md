@@ -11,4 +11,5 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AILWQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+
