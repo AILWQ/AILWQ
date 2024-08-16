@@ -6,9 +6,9 @@
  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+LLM+algorithm+engineer.;My+interests+are+in+LLM%2C+and+Agent." />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+LLM+algorithm+engineer.;My+interests+are+in+LLM%2C+and+Agent.)](https://git.io/typing-svg)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AILWQ)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AILWQ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
